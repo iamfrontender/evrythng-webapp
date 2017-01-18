@@ -44,5 +44,9 @@
   },
   "devDependencies": {
     "web-component-tester": "^4.0.0"
+  },
+  "resolutions": {
+    "evrythng": "^4.2.0",
+    "polymer": "^1.6.0"
   }
 }
